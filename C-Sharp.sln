@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-Sharp", "C-Sharp\C-Sharp.csproj", "{BFBB21A5-061C-4AD6-B7E3-13248CBB3B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{F7A3770D-FDD3-40B7-BD56-A810D6196EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBB21A5-061C-4AD6-B7E3-13248CBB3B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBB21A5-061C-4AD6-B7E3-13248CBB3B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBB21A5-061C-4AD6-B7E3-13248CBB3B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBB21A5-061C-4AD6-B7E3-13248CBB3B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A3770D-FDD3-40B7-BD56-A810D6196EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A3770D-FDD3-40B7-BD56-A810D6196EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A3770D-FDD3-40B7-BD56-A810D6196EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A3770D-FDD3-40B7-BD56-A810D6196EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39C0B27-7110-4599-8C86-6940D0A8DA5B}
+	EndGlobalSection
+EndGlobal
